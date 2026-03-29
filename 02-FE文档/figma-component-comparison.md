@@ -63,7 +63,7 @@
 | hover-card | 悬浮 | 悬浮预览卡片 |
 | input-otp | 输入 | OTP 验证码输入框 |
 | navigation-menu | 导航 | 导航菜单组件 |
-| sidebar | 导航 | 侧边导航栏 |
+| sidebar | 导航 | 侧边导航栏 | ✅ **已开发** |
 | skeleton | 加载 | 骨架屏加载状态 |
 | slider | 输入 | 滑块选择器 |
 | sonner | 通知 | 轻量级通知提示（Toast） |
